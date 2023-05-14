@@ -4,7 +4,7 @@
   "description": "",
   "homepage": "https://github.com/OlegFurculita1408/goit-js-hw-08-1",
   "scripts": {
-    "start": "parcel src/index.html",
+    "start": "parcel src/*.html --open",
     "build": "parcel build src/*.html --public-url /goit-js-hw-08-1/"
   },
   "repository": {
